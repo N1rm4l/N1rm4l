@@ -1,7 +1,3 @@
-Here's a GitHub profile summary for a freelance developer:
-
----
-
 **👋 Hi, I'm Nirmal — Freelance Software Developer**
 
 💻 **About Me**  
