@@ -5,7 +5,7 @@ I am a passionate and versatile freelance software developer with over [X years]
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,react,angular,aws,gcp,azure,kubernetes,cs,js,ts,html,css,wasm,docker,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=dotnet,react,angular,vue,aws,gcp,azure,kubernetes,cs,js,ts,html,css,wasm,docker,git&perline=8" />
   </a>
 </p>
 
