@@ -3,6 +3,12 @@
 💻 **About Me**  
 I am a passionate and versatile freelance software developer with over [X years] of experience in building web applications, APIs, and cloud-based solutions. I specialize in Full Stack development, creating dynamic, high-performance systems for clients across various industries. My goal is to deliver high-quality, scalable, and user-friendly applications that meet the unique needs of each project.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,react,angular,kubernetes,docker,git" />
+  </a>
+</p>
+
 🔧 **What I Do**  
 - **Frontend:** React, Angular, Blazor, JavaScript (ES6+), HTML5, CSS3, TypeScript  
 - **Backend:** Node.js, ASP.NET Core, ASP.NET Framework, RESTful APIs  
