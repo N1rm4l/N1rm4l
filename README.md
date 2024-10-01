@@ -1,7 +1,7 @@
 **👋 Hi, I'm Nirmal — Freelance Software Developer**
 
 💻 **About Me**  
-I am a passionate and versatile freelance software developer with over [X years] of experience in building web applications, APIs, and cloud-based solutions. I specialize in Full Stack development, creating dynamic, high-performance systems for clients across various industries. My goal is to deliver high-quality, scalable, and user-friendly applications that meet the unique needs of each project.
+I am a passionate and versatile freelance software developer with over 3+ years of experience in building web applications, APIs, and cloud-based solutions. I specialize in Full Stack development, creating dynamic, high-performance systems for clients across various industries. My goal is to deliver high-quality, scalable, and user-friendly applications that meet the unique needs of each project.
 
 <p align="center">
   <a href="https://skillicons.dev">
