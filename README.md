@@ -1,4 +1,4 @@
-**👋 Hi, I'm Nirmal — Full Stack Software Developer (SDE-1)**
+**👋 Hi, I'm Nirmal — Full Stack Software Engineer (SDE-1)**
 
 💻 **About Me**  
 I am a passionate and versatile software developer with over 3+ years of experience in building web applications, APIs, and cloud-based solutions. I specialize in Full Stack development, creating dynamic, high-performance systems for clients across various industries. My goal is to deliver high-quality, scalable, and user-friendly applications that meet the unique needs of each project.
