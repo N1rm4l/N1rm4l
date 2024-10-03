@@ -10,7 +10,7 @@ I am a passionate and versatile software developer with over 3+ years of experie
 </p>
 
 🔧 **What I Do**  
-- **Frontend:** React, Angular, Blazor, JavaScript (ES6+), HTML5, CSS3, TypeScript  
+- **Frontend:** React, Angular, Blazor, Vue.js, Next.js, JavaScript (ES6+), HTML5, CSS3, TypeScript  
 - **Backend:** Node.js, ASP.NET Core, ASP.NET Framework, RESTful APIs  
 - **Cloud:** AWS, Azure, Google Cloud, Docker, Kubernetes, CI/CD pipelines  
 - **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB  
